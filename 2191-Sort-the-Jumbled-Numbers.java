@@ -3,12 +3,20 @@ class Solution {
         int n = nums.length;
         Pair[] p = new Pair[n];
         for(int i=0;i<n;i++){
-            int map=0;
-            for(char c : String.valueOf(nums[i]).toCharArray()){
-                int ind = c-48;
-                map=(map*10)+mapping[ind];
+            int temp = nums[i];
+            if(temp>0){
+                int f = 1;
+                int map = 0;
+                while (temp > 0)
+                {
+                    map = map + mapping[temp%10]*f;
+                    f = f*10;
+                    temp = temp/10;
+                }
+                p[i]=new Pair(nums[i],map);
+            }else{
+                p[i]=new Pair(nums[i],mapping[temp]);
             }
-            p[i]=new Pair(nums[i],map);
         }
         Arrays.sort(p,(a,b)->a.map-b.map);
         for(int i=0;i<n;i++){
