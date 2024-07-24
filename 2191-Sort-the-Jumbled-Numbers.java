@@ -8,7 +8,7 @@ class Solution {
                 int ind = c-48;
                 map=(map*10)+mapping[ind];
             }
-            p[i]=new Pair(nums[i],map,i);
+            p[i]=new Pair(nums[i],map);
         }
         Arrays.sort(p,(a,b)->a.map-b.map);
         for(int i=0;i<n;i++){
@@ -21,10 +21,8 @@ class Solution {
 class Pair{
     int val;
     int map;
-    int i;
-    public Pair(int val,int map,int i){
+    public Pair(int val,int map){
         this.val=val;
         this.map=map;
-        this.i=i;
     }
 }
