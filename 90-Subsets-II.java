@@ -8,7 +8,7 @@ class Solution {
     public void subsets(int i,int[] arr,int n,List<List<Integer>> ans,List<Integer> subset){
         ans.add(new ArrayList<>(subset));
         for(int j=i;j<n;j++){
-            if(i!=j && arr[j] == arr[j-1]) continue; 
+            if(i<j && arr[j] == arr[j-1]) continue; 
             subset.add(arr[j]);
             subsets(j+1,arr,arr.length,ans,subset);
             subset.remove(subset.size()-1);
