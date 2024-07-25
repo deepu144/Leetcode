@@ -5,17 +5,14 @@ class Solution {
         return ans;
     }
     public void generate(int i,int[] arr,int n,int sum,List<List<Integer>> ans,List<Integer> sub){
-        if(i==n){
-            if(sum==0){
-                ans.add(new ArrayList<>(sub));
-            }
-            return;
+        if(sum==0){
+            ans.add(new ArrayList<>(sub));
         }
-        if(arr[i]<=sum){
-            sub.add(arr[i]);
-            generate(i,arr,n,sum-arr[i],ans,sub);
+        for(int j=i;j<n;j++){
+            if(sum-arr[j]<0) continue;
+            sub.add(arr[j]);
+            generate(j,arr,n,sum-arr[j],ans,sub);
             sub.remove(sub.size()-1);
         }
-        generate(i+1,arr,n,sum,ans,sub);
     }
 }
