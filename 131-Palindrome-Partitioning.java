@@ -6,26 +6,20 @@ class Solution {
     }
     public void generate(int ind,String s,int n,List<List<String>> ans,List<String> ds){
         if(ind==n){
-            if(check(ds)) ans.add(new ArrayList<>(ds));
+            ans.add(new ArrayList<>(ds));
             return;
         }
+        if(ind>n) return;
         for(int i=ind;i<n;i++){
-            ds.add(s.substring(ind,i+1));
-            generate(i+1,s,n,ans,ds);
-            ds.remove(ds.size()-1);
+            if(isPalindrome(s,ind,i)){
+                ds.add(s.substring(ind,i+1));
+                generate(i+1,s,n,ans,ds);
+                ds.remove(ds.size()-1);
+            }
         }
     }
-    public boolean check(List<String> ds){
-        for(String str : ds){
-            if(!isPalindrome(str)) return false;
-        }
-        return true;
-    }
-    public boolean isPalindrome(String str){
-        int len = str.length();
-        if(len==0) return false;
-        int a=0,b=len-1;
-        while(a<b){
+    public boolean isPalindrome(String str,int a,int b){
+        while(a<=b){
             if(str.charAt(a++)!=str.charAt(b--)) return false;
         }
         return true;
