@@ -7,8 +7,7 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        if(left-1<0) return prefix[right];
-        return prefix[right]-prefix[left-1];
+        return left-1<0 ? prefix[right] : prefix[right]-prefix[left-1];
     }
 }
 
