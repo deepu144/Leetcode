@@ -11,10 +11,6 @@ class Solution {
             if (r - l + 1 - hfre > k) {
                 hash[ch[l] - 'A']--;
                 l++;
-                hfre = 0;
-                for (int i = 0; i < 26; i++) {
-                    hfre = Math.max(hfre, hash[i]);
-                }
             }
             max = Math.max(max, r - l + 1);
             r++;
