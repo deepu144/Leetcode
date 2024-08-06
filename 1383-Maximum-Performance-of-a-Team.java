@@ -1,31 +1,23 @@
 class Solution {
     public int maxPerformance(int n, int[] speed, int[] efficiency, int k){
-        if(speed[0]==23093) return 301574164;
-        long res=-1;
-        List<Pair<Integer,Integer>> li = new ArrayList<>();
-        PriorityQueue<Pair<Integer,Integer>> pq = new PriorityQueue<>((a,b)->b.getKey()-a.getKey());
-        for(int i=0;i<n;i++) li.add(new Pair<>(speed[i],efficiency[i]));
-        Collections.sort(li,(a,b)->b.getValue()-a.getValue());
-        for(Pair<Integer,Integer> p : li){
-            PriorityQueue<Pair<Integer,Integer>> temp = new PriorityQueue<>(pq);
-            long s=p.getKey(),e=p.getValue();
-            if(pq.size()<k){
-                while(!temp.isEmpty()){
-                    Pair<Integer,Integer> t=temp.poll();
-                    s+=t.getKey();
-                }
-            }else{
-                int want=k-1;
-                while(want!=0){
-                    Pair<Integer,Integer> t=temp.poll();
-                    s+=t.getKey();
-                    want--;
-                }
-            }
-            long currAns=s*e;
-            res=Math.max(res,currAns);
-            pq.offer(p);
+        long res=-1,sum=0;
+        Pair[] pair=new Pair[n];
+        for(int i=0;i<n;i++) pair[i]=new Pair(speed[i],efficiency[i]);
+        Arrays.sort(pair,(a,b)->b.e-a.e);
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        for(Pair p : pair){
+            sum+=p.s;
+            pq.offer(p.s);
+            if(pq.size()>k) sum-=pq.poll();
+            res=Math.max(res,sum*p.e);
         }
-        return (int)(res%1000000007);
+        return (int)(res%((int)1e9+7));
+    }
+}
+class Pair{
+    int s,e;
+    public Pair(int s,int e){
+        this.s=s;
+        this.e=e;
     }
 }
