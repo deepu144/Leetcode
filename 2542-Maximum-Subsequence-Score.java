@@ -1,17 +1,24 @@
 class Solution {
-    public long maxScore(int[] nums1, int[] nums2, int k) {
-        int n=nums1.length;
-        int[][] arr=new int[n][2];
-        for(int i=0;i<n;i++) arr[i]=new int[]{nums2[i],nums1[i]};
-        Arrays.sort(arr,(a,b)->b[0]-a[0]);
-        PriorityQueue<Integer> pq=new PriorityQueue<>(k,(a,b)->a-b);
-        long sum=0,res=-1;
-        for(int[] a:arr){
-            sum+=a[1];
-            pq.offer(a[1]);
+    public long maxScore(int[] speed, int[] efficiency, int k) {
+        long res=-1,sum=0;
+        int n=speed.length;
+        Pair[] pair=new Pair[n];
+        for(int i=0;i<n;i++) pair[i]=new Pair(speed[i],efficiency[i]);
+        Arrays.sort(pair,(a,b)->b.e-a.e);
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        for(Pair p : pair){
+            sum+=p.s;
+            pq.offer(p.s);
             if(pq.size()>k) sum-=pq.poll();
-            if(pq.size()==k) res=Math.max(res,sum*a[0]);
+            if(pq.size()==k) res=Math.max(res,sum*p.e);
         }
         return res;
+    }
+}
+class Pair{
+    int s,e;
+    public Pair(int s,int e){
+        this.s=s;
+        this.e=e;
     }
 }
