@@ -12,56 +12,36 @@ public class Codec {
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         if(root==null) return \\;
-        Deque<TreeNode> q = new ArrayDeque<>();
         StringBuilder sb = new StringBuilder();
-        q.offer(root);
-        sb.append(root.val+\,\);
-        while(!q.isEmpty()){
-            int size = q.size();
-            while(size-->0){
-                TreeNode t = q.pop();
-                if(t.left==null) sb.append(\.,\);
-                else{
-                    q.offer(t.left);
-                    sb.append(t.left.val+\,\);
-                } 
-                if(t.right==null) sb.append(\.,\);
-                else{
-                    q.offer(t.right);
-                    sb.append(t.right.val+\,\);
-                } 
-            }
-        }
+        preOrder(root,sb);
         return sb.toString();
+    }
+
+    public void preOrder(TreeNode node,StringBuilder sb){
+        if(node==null){
+            sb.append(\.,\);
+            return;
+        }
+        sb.append(node.val+\,\);
+        preOrder(node.left,sb);
+        preOrder(node.right,sb);
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         if(data.length()==0) return null;
         String[] a = data.split(\,\);
-        Deque<TreeNode> q = new ArrayDeque<>();
-        TreeNode root = new TreeNode(Integer.parseInt(a[0]));
-        q.offer(root);
-        int i=1;
-        while(!q.isEmpty()){
-            int size=q.size();
-            while(size-->0){
-                TreeNode t = q.pop();
-                if(a[i].charAt(0)=='.') t.left=null;
-                else{
-                    t.left=new TreeNode(Integer.parseInt(a[i]));
-                    q.offer(t.left);
-                } 
-                i++;
-                if(a[i].charAt(0)=='.') t.right=null;
-                else{
-                    t.right=new TreeNode(Integer.parseInt(a[i]));
-                    q.offer(t.right);
-                } 
-                i++;
-            }
-        }
-        return root;
+        Deque<String> q = new ArrayDeque<>(Arrays.asList(a));
+        return construct(q);
+    }
+    
+    public TreeNode construct(Deque<String> q){
+        String n = q.pop();
+        if(n.charAt(0)=='.') return null;
+        TreeNode node = new TreeNode(Integer.parseInt(n));
+        node.left = construct(q);
+        node.right = construct(q);
+        return node;
     }
     
 }
