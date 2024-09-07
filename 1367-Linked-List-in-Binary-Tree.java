@@ -32,7 +32,7 @@ class Solution {
     public void dfs(ListNode list,TreeNode node){
         if(node==null) return;
         if(node.val==list.val){
-            boolean ans = check(list,node,list);
+            boolean ans = check(list,node);
             if(ans){
                 res=1;
                 return;
@@ -41,21 +41,9 @@ class Solution {
         dfs(list,node.left);
         dfs(list,node.right);
     }
-    public boolean check(ListNode list,TreeNode node,ListNode temp){
-        if(temp==null && node!=null) return true;
-        if(temp!=null && node!=null){
-            if(node.val==temp.val){
-                boolean l = check(list,node.left,temp.next);
-                boolean r = check(list,node.right,temp.next);
-
-                if(l||r) return true;
-            }else{
-                boolean l = check(list,node.left,list);
-                boolean r = check(list,node.right,list);
-                if(l||r) return true;
-            }
-        }
-        if(temp==null && node==null) return true;
-        return false;
+    public boolean check(ListNode temp,TreeNode node){
+        if(temp==null) return true;
+        if(node==null || node.val!=temp.val) return false;
+        return check(temp.next,node.left) || check(temp.next,node.right);
     }
 }
