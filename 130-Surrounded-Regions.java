@@ -8,8 +8,6 @@ class Solution {
                 q.offer(new int[]{i,0});
                 visited[i][0]=true;
             }
-        }
-        for(int i=0;i<m;i++){
             if(board[i][n-1]=='O'){
                 q.offer(new int[]{i,n-1});
                 visited[i][n-1]=true;
@@ -20,8 +18,6 @@ class Solution {
                 q.offer(new int[]{0,i});
                 visited[0][i]=true;
             }
-        }
-        for(int i=0;i<n;i++){
             if(board[m-1][i]=='O' && !visited[m-1][i]){
                 q.offer(new int[]{m-1,i});
                 visited[m-1][i]=true;
