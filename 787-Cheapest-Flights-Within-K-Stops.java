@@ -1,6 +1,6 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->a.s-b.s);
+        Queue<Pair> pq = new LinkedList<>();
         List<int[]> adj[] = new List[n];
         int[] dist = new int[n];
         Arrays.fill(dist,Integer.MAX_VALUE);
