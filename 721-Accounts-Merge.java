@@ -12,22 +12,17 @@ class Solution {
         }
         List<List<String>> li = new ArrayList<>();
         for(int i=0;i<n;i++) li.add(new ArrayList<>());
-        for(int i=0;i<n;i++){
-            for(int j=1;j<accounts.get(i).size();j++){
-                String s = accounts.get(i).get(j);
-                int parent = ds.find(map.get(s));
-                li.get(parent).add(s);
-            }
+        for(Map.Entry<String,Integer> m : map.entrySet()){
+            int parent = ds.find(m.getValue());
+            li.get(parent).add(m.getKey());
         }
-        int size=0;
-        for(int i=0;i<n;i++) if(!li.get(i).isEmpty()) size++;
         List<List<String>> ans = new ArrayList<>();
         for(int i=0;i<n;i++){
             if(li.get(i).isEmpty()) continue;
             ArrayList<String> t = new ArrayList<>();
             int parent = ds.find(map.get(li.get(i).getFirst()));
             for(String s : li.get(i)){
-                if(!t.contains(s)) t.add(s);
+                t.add(s);
             }
             Collections.sort(t);
             t.addFirst(accounts.get(parent).getFirst());
