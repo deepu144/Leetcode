@@ -7,7 +7,7 @@ class Solution {
         if(i<0) return j+1;
         if(j<0) return i+1;
         if(dp[i][j]!=null) return dp[i][j];
-        if(s.charAt(i)==t.charAt(j)) return subsequence(s,t,i-1,j-1,dp);
+        if(s.charAt(i)==t.charAt(j)) return dp[i][j]=subsequence(s,t,i-1,j-1,dp);
         int delete = 1 + subsequence(s,t,i-1,j,dp);
         int insert = 1 + subsequence(s,t,i,j-1,dp);
         int replace = 1 + subsequence(s,t,i-1,j-1,dp);
