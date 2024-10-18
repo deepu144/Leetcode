@@ -1,39 +1,47 @@
 class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
-        List<Integer>[] adj=new List[n];
-        for(int i=0;i<n;i++) adj[i]=new ArrayList<>();
-        int[] degree=new int[n];
-        for(int[] a : edges){
-            adj[a[0]].add(a[1]);
-            adj[a[1]].add(a[0]);
-            degree[a[0]]++;
-            degree[a[1]]++;
-        }
+        DisJointSet ds=new DisJointSet(n);
+        for(int[] a : edges) ds.union(a[0],a[1]);
         int com=0;
-        boolean[] visited=new boolean[n];
         for(int i=0;i<n;i++){
-            if(adj[i].isEmpty()) com++;
-            else if(!visited[i]) {
-                List<Integer> li=new ArrayList<>();
-                dfs(i,adj,visited,li);
-                int deg=li.size()-1,f=1;
-                for(int j=1;j<li.size();j++){
-                    if(degree[li.get(j)]!=deg){
-                        f=0;
-                        break;
-                    }
-                }
-                if(f==0) continue;
-                com++;
+            if(ds.parent[i]==i){
+                if((ds.size[i])*(ds.size[i]-1)==ds.edges[i]*2) com++;
             }
         }
         return com;
     }
-    public void dfs(int v,List<Integer>[] adj,boolean[] visited,List<Integer> li){
-        visited[v]=true;
-        li.add(v);
-        for(int i : adj[v]){
-            if(!visited[i]) dfs(i,adj,visited,li);
+}
+class DisJointSet{
+    int[] parent;
+    int[] size;
+    int[] edges;
+    public DisJointSet(int n){
+        parent=new int[n];
+        size=new int[n];
+        edges=new int[n];
+        Arrays.fill(size,1);
+        for(int i=0;i<n;i++) parent[i]=i;
+    }
+    public int find(int u){
+        if(parent[u]==u) return u;
+        return parent[u]=find(parent[u]);
+    }
+    public boolean union(int u,int v){
+        int ul_u=find(u);
+        int ul_v=find(v);
+        if(ul_u==ul_v){
+            edges[ul_u]++;
+            return false;
         }
+        if(size[ul_u]>size[ul_v]){
+            parent[ul_v]=ul_u;
+            size[ul_u]+=size[ul_v];
+            edges[ul_u]+=edges[ul_v]+1;
+        }else{
+            parent[ul_u]=ul_v;
+            size[ul_v]+=size[ul_u];
+            edges[ul_v]+=edges[ul_u]+1;
+        }
+        return true;
     }
 }
