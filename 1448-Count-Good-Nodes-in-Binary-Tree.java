@@ -19,7 +19,9 @@ class Solution {
     }
     public int dfs(TreeNode node,int pre){
         if(node==null) return 0;
-        if(pre<=node.val) return 1+dfs(node.left,node.val)+dfs(node.right,node.val);
-        else return dfs(node.left,pre)+dfs(node.right,pre);
+        int count=0;
+        if(pre<=node.val) count=1+dfs(node.left,node.val)+dfs(node.right,node.val);
+        else count+=(dfs(node.left,pre)+dfs(node.right,pre));
+        return count;
     }
 }
