@@ -25,8 +25,8 @@ class Solution {
             int size=q.size();
             while(size!=0){
                 Pair p = q.pop();
-                if(p.node.left!=null) q.offer(new Pair(p.node.left,(p.pos-first)*2+1));
-                if(p.node.right!=null) q.offer(new Pair(p.node.right,(p.pos-first)*2+2));
+                if(p.node.left!=null) q.offer(new Pair(p.node.left,((p.pos-first)<<1)+1));
+                if(p.node.right!=null) q.offer(new Pair(p.node.right,((p.pos-first)<<1)+2));
                 size--;
             }
         }
