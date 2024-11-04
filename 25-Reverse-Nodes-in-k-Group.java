@@ -29,7 +29,6 @@ class Solution {
                 count=0;
                 temp=pre;
                 pre=next;
-                ListNode o=head;
             }
             temp=temp.next;
         }
