@@ -1,15 +1,13 @@
 class Solution {
     public boolean validPartition(int[] nums) {
-        return partition(nums,nums.length-1,new Boolean[nums.length]);
-    }
-    public boolean partition(int[] nums,int ind,Boolean[] dp){
-        if((ind-1==0 && isValid(nums,ind-1,ind))||(ind-2==0 && isValid(nums,ind-2,ind))) return true;
-        if(ind<0) return false;
-        if(dp[ind]!=null) return dp[ind];
-        boolean two=false,three=two;
-        if(isValid(nums,ind-1,ind)) two=partition(nums,ind-2,dp);
-        if(isValid(nums,ind-2,ind)) three=partition(nums,ind-3,dp);
-        return dp[ind]=two||three;
+        int n=nums.length;
+        boolean[] dp=new boolean[n+1];
+        dp[0]=true;
+        for(int i=1;i<n;i++){
+            if(isValid(nums,i-1,i) && i>=1) dp[i+1]|=dp[i-1];
+            if(isValid(nums,i-2,i) && i>=2) dp[i+1]|=dp[i-2];
+        }
+        return dp[n];
     }
     public boolean isValid(int[] nums,int i,int j){
         int n=nums.length;
