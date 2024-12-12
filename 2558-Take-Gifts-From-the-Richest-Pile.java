@@ -3,8 +3,8 @@ class Solution {
         PriorityQueue<Integer> pq=new PriorityQueue<>((a,b)->b-a);
         long ans=0;
         for(int i : gifts) pq.offer(i);
-        while(k-->0) pq.offer((int)Math.floor(Math.sqrt(pq.poll())));
-        while(!pq.isEmpty()) ans+=pq.poll();
+        while(k-->0) pq.offer((int)Math.sqrt(pq.poll()));
+        for(int i : pq) ans+=i;
         return ans;
     }
 }
