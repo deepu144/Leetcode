@@ -1,21 +1,21 @@
 class Solution {
     public long findScore(int[] nums) {
-        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->{
+        final int n=nums.length;
+        int[][] pq=new int[n][];
+        long ans=0L;
+        boolean[] visit=new boolean[n];
+        for(int i=0;i<n;i++) pq[i]=new int[]{nums[i],i};
+        Arrays.sort(pq,(a,b)->{
             if(a[0]==b[0]) return a[1]-b[1];
             return a[0]-b[0];
         });
-        int n=nums.length;
-        long ans=0;
-        int[][] hash=new int[n][];
-        for(int i=0;i<n;i++) hash[i]=new int[]{nums[i],i,0};
-        for(int[] a : hash) pq.offer(a);
-        while(!pq.isEmpty()){
-            int[] a=pq.poll();
-            if(a[2]==1) continue;
+        for(int[] a : pq){
+            if(visit[a[1]]) continue;
             ans+=a[0];
+            visit[a[1]]=true;
             int ind=a[1];
-            if(ind-1>=0) hash[ind-1][2]=1;
-            if(ind+1<n) hash[ind+1][2]=1;
+            if(ind-1>=0) visit[ind-1]=true;
+            if(ind+1<n) visit[ind+1]=true;
         }
         return ans;
     }
