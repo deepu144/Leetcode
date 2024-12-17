@@ -1,9 +1,9 @@
 class Solution {
     public int minGroups(int[][] arr) {
         int max=0;
-        for(int[] a : arr) max=Math.max(max,a[1]);
+        for(final int[] a : arr) max=Math.max(max,a[1]);
         int[] hash=new int[max+2];
-        for(int[] a : arr){
+        for(final int[] a : arr){
             hash[a[0]]++;
             hash[a[1]+1]--;
         }
