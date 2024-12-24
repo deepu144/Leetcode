@@ -131,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepu144/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepu144/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
 | ------- |
