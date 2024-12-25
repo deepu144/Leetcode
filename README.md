@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/deepu144/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepu144/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Backtracking
