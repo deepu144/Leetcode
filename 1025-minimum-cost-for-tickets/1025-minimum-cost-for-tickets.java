@@ -1,6 +1,6 @@
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
-        return minCost(days,costs,days.length,0,new Integer[366]);
+        return minCost(days,costs,days.length,0,new Integer[days.length]);
     }
     public int minCost(int[] days,int[] costs,int n,int i,Integer[] dp){
         if(i>=n) return 0;
@@ -14,6 +14,7 @@ class Solution {
         int end=n-1;
         while(start<=end){
             int mid = start+(end-start)/2;
+            // if(arr[mid]==x) return mid+1;
             if(arr[mid]>x){
                 end=mid-1;
             }else{
