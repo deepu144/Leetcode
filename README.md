@@ -196,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Graph
 |  |
 | ------- |
+| [1738-maximal-network-rank](https://github.com/deepu144/Leetcode/tree/master/1738-maximal-network-rank) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Linked List
 |  |
