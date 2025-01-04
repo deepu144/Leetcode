@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/deepu144/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -175,6 +176,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/deepu144/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepu144/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -209,6 +211,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepu144/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 ## Matrix
