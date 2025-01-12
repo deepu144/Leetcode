@@ -81,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
@@ -192,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -220,6 +222,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepu144/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
