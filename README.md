@@ -193,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepu144/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0005-longest-palindromic-substring](https://github.com/deepu144/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/deepu144/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepu144/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepu144/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -295,6 +297,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
