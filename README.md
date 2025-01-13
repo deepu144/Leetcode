@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0435-non-overlapping-intervals](https://github.com/deepu144/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -87,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/deepu144/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -333,6 +335,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepu144/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Counting
 |  |
 | ------- |
