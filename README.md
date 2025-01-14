@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0027-remove-element](https://github.com/deepu144/Leetcode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/deepu144/Leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/deepu144/Leetcode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepu144/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/deepu144/Leetcode/tree/master/0134-gas-station) |
