@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0134-gas-station](https://github.com/deepu144/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deepu144/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/deepu144/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -150,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -371,6 +373,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepu144/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deepu144/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Counting
 |  |
 | ------- |
