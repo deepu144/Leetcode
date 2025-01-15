@@ -307,6 +307,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepu144/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/deepu144/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepu144/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
