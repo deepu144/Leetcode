@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/deepu144/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/deepu144/Leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepu144/Leetcode/tree/master/0057-insert-interval) |
@@ -208,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0012-integer-to-roman](https://github.com/deepu144/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/deepu144/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
@@ -313,6 +315,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
