@@ -309,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/deepu144/Leetcode/tree/master/0190-reverse-bits) |
 | [0473-matchsticks-to-square](https://github.com/deepu144/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -434,6 +435,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/deepu144/Leetcode/tree/master/0190-reverse-bits) |
 ## Counting Sort
 |  |
 | ------- |
