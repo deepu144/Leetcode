@@ -1,6 +1,7 @@
 class Solution {
     public boolean isInterleave(String a, String b, String c) {
         int l=a.length(),m=b.length(),n=c.length();
+        if(l+m!=n) return false;
         return match(a,b,c,l-1,m-1,n-1,new Boolean[l][m][n]);
     }
     public boolean match(String a,String b,String c,int i,int j,int k,Boolean[][][] dp){
