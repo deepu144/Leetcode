@@ -120,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/deepu144/Leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/deepu144/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -192,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0146-lru-cache](https://github.com/deepu144/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepu144/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepu144/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
@@ -251,6 +253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -433,6 +436,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deepu144/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -464,4 +468,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
