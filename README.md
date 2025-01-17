@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepu144/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepu144/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/deepu144/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/deepu144/Leetcode/tree/master/2808-painting-the-walls) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepu144/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -346,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepu144/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/deepu144/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Graph
 |  |
 | ------- |
