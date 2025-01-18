@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -173,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepu144/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -269,6 +271,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -352,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1738-maximal-network-rank](https://github.com/deepu144/Leetcode/tree/master/1738-maximal-network-rank) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Linked List
@@ -379,6 +383,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
@@ -507,4 +512,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
