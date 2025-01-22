@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
+| [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
@@ -183,6 +184,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -402,6 +404,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepu144/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
