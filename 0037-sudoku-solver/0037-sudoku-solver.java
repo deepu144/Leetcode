@@ -24,7 +24,10 @@ class Solution {
         for(int i=0;i<N;i++){
             if(board[i][col]==ch) return false;
             if(board[row][i]==ch) return false;
-            if(board[3*(row/3)+i/3][3*(col/3)+i%3]==ch) return false;
+        }
+        int r=row-row%3,c=col-col%3;
+        for(int i=r;i<r+3;i++){
+            for(int j=c;j<c+3;j++) if(board[i][j]==ch) return false;
         }
         return true;
     }
