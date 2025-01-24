@@ -172,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -187,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -380,6 +382,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
+| [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1738-maximal-network-rank](https://github.com/deepu144/Leetcode/tree/master/1738-maximal-network-rank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -554,5 +557,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
