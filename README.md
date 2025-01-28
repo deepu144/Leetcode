@@ -71,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepu144/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -308,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2455-node-with-highest-edge-score](https://github.com/deepu144/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/deepu144/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -374,6 +376,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -422,6 +425,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/deepu144/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepu144/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -610,6 +614,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/deepu144/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
