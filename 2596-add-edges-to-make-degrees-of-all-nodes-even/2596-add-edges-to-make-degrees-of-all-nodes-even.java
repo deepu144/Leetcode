@@ -9,11 +9,10 @@ class Solution {
             degree[edge.getFirst()]++;
             degree[edge.getLast()]++;
         }
-        int oddDegree=0,zeroDegree=0,k=0;
+        int oddDegree=0,k=0;
         int[] odd=new int[4];
         for(int i=1;i<=n;i++){
-            if(degree[i]==0) zeroDegree++;
-            else if((degree[i]&1)==1){
+            if((degree[i]&1)==1){
                 oddDegree++;
                 if(k==4) return false;
                 odd[k++]=i;
