@@ -429,6 +429,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/deepu144/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepu144/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/deepu144/Leetcode/tree/master/1738-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -610,6 +611,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0547-number-of-provinces](https://github.com/deepu144/Leetcode/tree/master/0547-number-of-provinces) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepu144/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/deepu144/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
