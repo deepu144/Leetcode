@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepu144/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -337,6 +338,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
+| [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
@@ -435,6 +437,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/deepu144/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -638,6 +641,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
