@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -230,6 +231,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -452,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/deepu144/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/deepu144/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
