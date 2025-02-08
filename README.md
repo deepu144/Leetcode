@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepu144/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -207,6 +208,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
+| [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -235,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0833-bus-routes](https://github.com/deepu144/Leetcode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/deepu144/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -530,6 +533,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -676,6 +680,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0547-number-of-provinces](https://github.com/deepu144/Leetcode/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepu144/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
