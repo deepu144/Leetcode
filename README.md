@@ -88,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepu144/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -355,6 +356,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/deepu144/Leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/deepu144/Leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepu144/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -555,6 +557,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -641,6 +644,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
