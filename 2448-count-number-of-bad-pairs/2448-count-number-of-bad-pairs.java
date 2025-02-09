@@ -5,9 +5,10 @@ class Solution {
         int n=nums.length;
         for(int i=0;i<n;i++){
             int val=nums[i]-i;
-            map.put(val,map.getOrDefault(val,0L)+1L);
+            long numCount=map.getOrDefault(val,0L)+1L;
+            map.put(val,numCount);
             count++;
-            res+=count-map.get(val);
+            res+=count-numCount;
         }
         return res;
     }
