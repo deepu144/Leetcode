@@ -80,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -213,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/deepu144/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -245,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -291,6 +295,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/deepu144/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
@@ -353,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
