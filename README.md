@@ -134,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/deepu144/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2562-count-ways-to-build-good-strings](https://github.com/deepu144/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -359,6 +360,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
@@ -502,6 +504,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/deepu144/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -588,6 +591,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepu144/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Sliding Window
@@ -663,6 +667,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
@@ -729,6 +734,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/deepu144/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/deepu144/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
