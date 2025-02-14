@@ -5,7 +5,6 @@ class ProductOfNumbers {
     public ProductOfNumbers() {
         arr=new ArrayList<>();
         product=new ArrayList<>();
-        // product.add(1);
         lastZeroIndex=-1;
         curr=1;
     }
