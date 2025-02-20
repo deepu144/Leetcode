@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/deepu144/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -133,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0877-shortest-path-visiting-all-nodes](https://github.com/deepu144/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepu144/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepu144/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -297,6 +299,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -369,6 +372,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0833-bus-routes](https://github.com/deepu144/Leetcode/tree/master/0833-bus-routes) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/deepu144/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
