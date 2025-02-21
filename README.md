@@ -204,6 +204,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/deepu144/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -228,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0863-sum-of-distances-in-tree](https://github.com/deepu144/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0881-loud-and-rich](https://github.com/deepu144/Leetcode/tree/master/0881-loud-and-rich) |
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/deepu144/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -291,6 +294,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0226-invert-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search
@@ -315,6 +319,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -378,6 +383,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
