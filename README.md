@@ -192,6 +192,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/deepu144/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
