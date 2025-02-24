@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0005-longest-palindromic-substring](https://github.com/deepu144/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/deepu144/Leetcode/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/deepu144/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
@@ -198,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepu144/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -298,6 +300,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0113-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepu144/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -625,6 +628,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0012-integer-to-roman](https://github.com/deepu144/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/deepu144/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
@@ -807,4 +811,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/deepu144/Leetcode/tree/master/1028-interval-list-intersections) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
