@@ -140,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1025-minimum-cost-for-tickets](https://github.com/deepu144/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/deepu144/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepu144/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/deepu144/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -488,6 +489,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/deepu144/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepu144/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/deepu144/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
