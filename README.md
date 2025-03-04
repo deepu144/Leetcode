@@ -645,6 +645,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/deepu144/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/deepu144/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
