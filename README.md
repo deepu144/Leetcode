@@ -130,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepu144/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/deepu144/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepu144/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -389,6 +390,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepu144/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepu144/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
 |  |
@@ -574,6 +576,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepu144/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/deepu144/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
 |  |
 | ------- |
@@ -685,6 +688,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -709,6 +713,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepu144/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/deepu144/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepu144/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deepu144/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
