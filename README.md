@@ -130,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepu144/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/deepu144/Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/deepu144/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepu144/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -215,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3430-count-days-without-meetings](https://github.com/deepu144/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Tree
 |  |
