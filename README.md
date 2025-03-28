@@ -109,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/deepu144/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/deepu144/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepu144/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/deepu144/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -222,6 +223,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepu144/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepu144/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepu144/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -326,6 +328,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2564-most-profitable-path-in-a-tree](https://github.com/deepu144/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/deepu144/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepu144/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/deepu144/Leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/deepu144/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -487,6 +490,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2379-maximum-total-importance-of-roads](https://github.com/deepu144/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepu144/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/deepu144/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -683,6 +687,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepu144/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepu144/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -805,6 +810,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/deepu144/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/deepu144/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/deepu144/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
 |  |
@@ -869,6 +875,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/deepu144/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/deepu144/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/deepu144/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/deepu144/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
