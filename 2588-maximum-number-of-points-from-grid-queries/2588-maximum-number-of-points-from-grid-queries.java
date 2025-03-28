@@ -28,21 +28,8 @@ class Solution {
                     pq.offer(new int[]{a,b});
                     visited[a][b]=true;
                 }
-                if(pq.isEmpty()){
-                    if(map.containsKey(q[currQueryIndex][0])){
-                        res[q[currQueryIndex][1]]=map.get(q[currQueryIndex][0]);
-                    }else{
-                        if(!map.isEmpty()){
-                            int tot=count+map.get(map.lastKey());
-                            res[q[currQueryIndex][1]]=tot;
-                            map.put(q[currQueryIndex][0],tot);
-                        }else{
-                            res[q[currQueryIndex][1]]=count;
-                            map.put(q[currQueryIndex][0],count);
-                        }
-                    }
-                }
-            }else{
+            }
+            if(grid[x][y]>=q[currQueryIndex][0] || pq.isEmpty()){
                 if(map.containsKey(q[currQueryIndex][0])){
                     res[q[currQueryIndex][1]]=map.get(q[currQueryIndex][0]);
                 }else{
