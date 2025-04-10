@@ -24,7 +24,7 @@ class Solution {
             }
             return 1L;
         }else{
-            for(int i=0; i<=upperBound && i<=limit ;i++){
+            for(int i=0; i<=Math.min(upperBound,limit) ;i++){
                 boolean canTight = i==upperBound && tight==1;
                 ans += helper(num,numLength,s,sLength,n-1,canTight ? 1 : 0,limit,dp);
             }
