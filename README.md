@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepu144/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/deepu144/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
@@ -451,6 +452,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepu144/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/deepu144/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepu144/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
