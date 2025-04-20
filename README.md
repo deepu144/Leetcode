@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [0881-loud-and-rich](https://github.com/deepu144/Leetcode/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepu144/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
@@ -218,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
 | [0770-couples-holding-hands](https://github.com/deepu144/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/deepu144/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -243,6 +245,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -879,6 +882,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0556-next-greater-element-iii](https://github.com/deepu144/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1028-interval-list-intersections](https://github.com/deepu144/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
