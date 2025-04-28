@@ -116,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepu144/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepu144/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -408,6 +409,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/deepu144/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepu144/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/deepu144/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/deepu144/Leetcode/tree/master/2690-house-robber-iv) |
@@ -456,6 +458,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2249-count-the-hidden-sequences](https://github.com/deepu144/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepu144/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepu144/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepu144/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -819,6 +822,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/deepu144/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepu144/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepu144/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/deepu144/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepu144/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
