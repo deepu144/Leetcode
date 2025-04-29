@@ -147,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/deepu144/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepu144/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -826,6 +827,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepu144/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/deepu144/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepu144/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepu144/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepu144/Leetcode/tree/master/3483-alternating-groups-ii) |
