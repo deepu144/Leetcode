@@ -2,11 +2,11 @@ class Solution {
     public int maxTaskAssign(int[] tasks, int[] workers, int pills, int strength) {
         Arrays.sort(tasks);
         Arrays.sort(workers);
-        int n=tasks.length,m=workers.length,ans=0,start=0,end=Math.min(m,n);
+        int n=tasks.length,m=workers.length,ans=0,start=0,end=Math.min(m,n)-1;
         while(start<=end){
             int mid= start+(end-start)/2;
-            if(isPossible(tasks,workers,m,pills,strength,mid)){
-                ans=mid;
+            if(isPossible(tasks,workers,m,pills,strength,mid+1)){
+                ans=mid+1;
                 start=mid+1;
             }else end=mid-1;
         }
