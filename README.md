@@ -188,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0863-sum-of-distances-in-tree](https://github.com/deepu144/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/deepu144/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/deepu144/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepu144/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -610,6 +611,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -906,6 +908,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0556-next-greater-element-iii](https://github.com/deepu144/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1028-interval-list-intersections](https://github.com/deepu144/Leetcode/tree/master/1028-interval-list-intersections) |
