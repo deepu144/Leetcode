@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1028-interval-list-intersections](https://github.com/deepu144/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/deepu144/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/deepu144/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
@@ -229,6 +230,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0770-couples-holding-hands](https://github.com/deepu144/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/deepu144/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/deepu144/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
