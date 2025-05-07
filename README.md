@@ -168,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3483-alternating-groups-ii](https://github.com/deepu144/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/deepu144/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepu144/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepu144/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -573,6 +574,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Stack
 |  |
 | ------- |
@@ -736,6 +738,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepu144/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |
@@ -780,6 +783,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -1005,6 +1009,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/deepu144/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/deepu144/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
