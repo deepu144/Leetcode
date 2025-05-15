@@ -151,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepu144/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepu144/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepu144/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/deepu144/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/deepu144/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/deepu144/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -219,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2808-painting-the-walls](https://github.com/deepu144/Leetcode/tree/master/2808-painting-the-walls) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepu144/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepu144/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/deepu144/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -251,6 +253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2590-maximum-star-sum-of-a-graph](https://github.com/deepu144/Leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2681-put-marbles-in-bags](https://github.com/deepu144/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/deepu144/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sorting
@@ -650,6 +653,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepu144/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepu144/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/deepu144/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
