@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepu144/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/deepu144/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepu144/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -262,6 +263,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/deepu144/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/deepu144/Leetcode/tree/master/0274-h-index) |
@@ -927,6 +929,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0005-longest-palindromic-substring](https://github.com/deepu144/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/deepu144/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/deepu144/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepu144/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/deepu144/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
