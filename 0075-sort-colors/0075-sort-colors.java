@@ -1,35 +1,14 @@
 class Solution {
     public void sortColors(int[] nums) {
-        nums = quickSort(nums,0,nums.length-1);
-    }
-
-    public static int[] quickSort(int[] arr , int low , int high){
-
-        if(low<high){
-            int pivot = low;
-            int i = low;
-            int j = high;
-
-            while(i<j){
-                while(arr[i]<=arr[pivot] && i<high){
-                    i++;
-                }
-                while(arr[j]>arr[pivot] && j>low){
-                    j--;
-                }
-                if(i<j){
-                    int t = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = t;
-                }
+        int[] arr=new int[3];
+        int n=nums.length,i=0,j=0;
+        for(int a : nums) arr[a]++;
+        while(i<n){
+            while(arr[j]>0){
+                nums[i++]=j;
+                arr[j]--;
             }
-            int tp = arr[pivot];
-            arr[pivot] = arr[j];
-            arr[j] = tp;
-            quickSort(arr,low,j-1);
-            quickSort(arr,j+1,high);
-            return arr;
+            j++;
         }
-        return arr;
     }
 }
