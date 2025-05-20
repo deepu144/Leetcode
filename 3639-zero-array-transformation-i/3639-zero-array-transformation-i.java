@@ -6,8 +6,10 @@ class Solution {
             hash[query[0]]++;
             hash[query[1]+1]--;
         }
-        for(int i=1;i<=n;i++) hash[i]+=hash[i-1];
-        for(int i=0;i<n;i++) if(nums[i]>hash[i]) return false;
+        for(int i=1;i<=n;i++){
+            hash[i]+=hash[i-1];
+            if(nums[i-1]>hash[i-1]) return false;
+        }
         return true;
     }
 }
