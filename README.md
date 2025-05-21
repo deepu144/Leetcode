@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepu144/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/deepu144/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepu144/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepu144/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepu144/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -513,6 +514,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepu144/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepu144/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/deepu144/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/deepu144/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/deepu144/Leetcode/tree/master/0127-word-ladder) |
@@ -789,6 +791,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepu144/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deepu144/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/deepu144/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
