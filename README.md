@@ -1107,6 +1107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Database
 |  |
 | ------- |
+| [1179-game-play-analysis-i](https://github.com/deepu144/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1541-top-travellers](https://github.com/deepu144/Leetcode/tree/master/1541-top-travellers) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deepu144/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
