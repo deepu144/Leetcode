@@ -115,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/deepu144/Leetcode/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepu144/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/deepu144/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/deepu144/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/deepu144/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -223,6 +224,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/deepu144/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/deepu144/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/deepu144/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepu144/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepu144/Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/deepu144/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -502,6 +504,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/deepu144/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/deepu144/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepu144/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
