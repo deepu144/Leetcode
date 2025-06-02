@@ -168,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/deepu144/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -942,6 +943,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bitmask
 |  |
@@ -952,10 +954,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Rolling Hash
 |  |
 | ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
