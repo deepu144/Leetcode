@@ -1118,6 +1118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/deepu144/Leetcode/tree/master/0175-combine-two-tables) |
 | [1179-game-play-analysis-i](https://github.com/deepu144/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1541-top-travellers](https://github.com/deepu144/Leetcode/tree/master/1541-top-travellers) |
 | [1837-daily-leads-and-partners](https://github.com/deepu144/Leetcode/tree/master/1837-daily-leads-and-partners) |
