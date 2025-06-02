@@ -1125,6 +1125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0626-exchange-seats](https://github.com/deepu144/Leetcode/tree/master/0626-exchange-seats) |
 | [1179-game-play-analysis-i](https://github.com/deepu144/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1268-market-analysis-i](https://github.com/deepu144/Leetcode/tree/master/1268-market-analysis-i) |
+| [1523-capital-gainloss](https://github.com/deepu144/Leetcode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/deepu144/Leetcode/tree/master/1541-top-travellers) |
 | [1837-daily-leads-and-partners](https://github.com/deepu144/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deepu144/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
