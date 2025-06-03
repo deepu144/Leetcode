@@ -103,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/deepu144/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/deepu144/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/deepu144/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/deepu144/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -372,6 +373,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/deepu144/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/deepu144/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -571,6 +573,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1500-count-largest-group](https://github.com/deepu144/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/deepu144/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
