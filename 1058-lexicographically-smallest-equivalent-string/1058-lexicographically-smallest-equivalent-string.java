@@ -1,42 +1,29 @@
 class Solution {
     public String smallestEquivalentString(String s1, String s2, String baseStr) {
-        int n=s1.length(),noOfComponents=0,j=0,m=baseStr.length();
+        int n=s1.length(),m=baseStr.length();
         DisJointSet ds=new DisJointSet(26);
-        Set<Character> set=new HashSet<>();
         StringBuilder sb=new StringBuilder();
-        int[] map=new int[26];
-        Arrays.fill(map,-1);
+        int[] min=new int[26];
+        for(int i=0;i<26;i++) min[i]=i;
         for(int i=0;i<n;i++){
-            char c1=s1.charAt(i);
-            char c2=s2.charAt(i);
-            set.add(c1);
-            set.add(c2);
-            ds.union(c1-'a',c2-'a');
+            int c1=s1.charAt(i)-'a';
+            int c2=s2.charAt(i)-'a';
+            ds.union(c1,c2);
         }
-        for(char ch : set) if(ds.parent[ch-'a']==ch-'a') noOfComponents++;
-        PriorityQueue<Character>[] pq=new PriorityQueue[noOfComponents];
-        for(int i=0;i<noOfComponents;i++) pq[i]=new PriorityQueue<>();
         for(int i=0;i<n;i++){
-            j = helper(j,s1.charAt(i),ds,map,pq);
-            j = helper(j,s2.charAt(i),ds,map,pq);
+            helper(s1.charAt(i),ds,min);
+            helper(s2.charAt(i),ds,min);
         }
         for(int i=0;i<m;i++){
             char ch=baseStr.charAt(i);
-            int ul_u = ds.find(ch-'a'),idx=map[ul_u];
-            if(idx==-1) sb.append(ch);
-            else sb.append(pq[idx].peek());
+            int ul_u = ds.find(ch-'a');
+            sb.append((char)(min[ul_u]+'a'));
         }
         return sb.toString();
     }
-    public int helper(int j,char ch,DisJointSet ds,int[] map,PriorityQueue<Character>[] pq){
+    public void helper(char ch,DisJointSet ds,int[] min){
         int ul_u=ds.find(ch-'a');
-        int idx=map[ul_u];
-        if(idx==-1){
-            idx=j;
-            map[ul_u]=j++;
-        }
-        pq[idx].offer(ch);
-        return j;
+        min[ul_u]=Math.min(min[ul_u],ch-'a');
     }
 }
 class DisJointSet{
