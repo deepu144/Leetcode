@@ -277,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2716-prime-subtraction-operation](https://github.com/deepu144/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/deepu144/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/deepu144/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -600,6 +601,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/deepu144/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deepu144/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -634,6 +636,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Stack
 |  |
@@ -645,6 +648,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/deepu144/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/deepu144/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -716,6 +720,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3243-count-the-number-of-powerful-integers](https://github.com/deepu144/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deepu144/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
