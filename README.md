@@ -333,6 +333,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepu144/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepu144/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/deepu144/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -357,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepu144/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/deepu144/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/deepu144/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -448,6 +450,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepu144/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/deepu144/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
