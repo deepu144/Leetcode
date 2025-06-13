@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int cmp = target - nums[i];
             if(map.containsKey(cmp)){
-                return new int[]{map.get(cmp), i};
+                return new int[]{map.get(cmp),i};
             }
             map.put(nums[i],i);
         }
