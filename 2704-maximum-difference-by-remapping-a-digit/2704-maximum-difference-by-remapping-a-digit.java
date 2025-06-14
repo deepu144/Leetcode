@@ -17,16 +17,12 @@ class Solution {
         while(i<n && arr[i]==change) i++;
         if(i>=n) return convertToNumber(arr,n);
         digit = arr[i];
-        for(int j=i;j<n;j++){
-            if(arr[j]==digit) arr[j]=change;
-        }
+        for(int j=i;j<n;j++) if(arr[j]==digit) arr[j]=change;
         return convertToNumber(arr,n);
     }
     public int convertToNumber(int[] arr,int n){
         int res=0,temp=1;
-        for(int i=0;i<n;i++){
-            res = (res * 10) + arr[i];
-        }
+        for(int i=0;i<n;i++) res = (res * 10) + arr[i];
         return res;
     }
 }
