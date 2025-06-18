@@ -172,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/deepu144/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/deepu144/Leetcode/tree/master/3321-type-of-triangle) |
@@ -279,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2716-prime-subtraction-operation](https://github.com/deepu144/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/deepu144/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/deepu144/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/deepu144/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -319,6 +321,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepu144/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/deepu144/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/deepu144/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/deepu144/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
