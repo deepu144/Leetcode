@@ -620,6 +620,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepu144/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -739,6 +740,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/deepu144/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/deepu144/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -920,6 +922,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3321-type-of-triangle](https://github.com/deepu144/Leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/deepu144/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepu144/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/deepu144/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
@@ -1060,6 +1063,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
