@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/deepu144/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -301,6 +302,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0435-non-overlapping-intervals](https://github.com/deepu144/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -571,6 +573,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/deepu144/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/deepu144/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/deepu144/Leetcode/tree/master/0833-bus-routes) |
@@ -959,6 +962,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0076-minimum-window-substring](https://github.com/deepu144/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deepu144/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepu144/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1054,6 +1058,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/deepu144/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
