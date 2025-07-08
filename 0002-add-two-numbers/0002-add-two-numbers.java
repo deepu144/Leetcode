@@ -21,7 +21,7 @@ class Solution {
                 l1=l1.next;
                 l2=l2.next;
                 temp=res;
-                continue;
+                continue ;
             }
             if(l1!=null && l2!=null){
                 int sum=l1.val+l2.val+carry;
