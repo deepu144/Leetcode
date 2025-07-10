@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/deepu144/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/deepu144/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/deepu144/Leetcode/tree/master/0833-bus-routes) |
@@ -384,6 +385,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/deepu144/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/deepu144/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/deepu144/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -426,6 +428,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepu144/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/deepu144/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepu144/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/deepu144/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/deepu144/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/deepu144/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -889,6 +892,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/deepu144/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -1136,6 +1140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/deepu144/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/deepu144/Leetcode/tree/master/0770-couples-holding-hands) |
 | [0854-making-a-large-island](https://github.com/deepu144/Leetcode/tree/master/0854-making-a-large-island) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
