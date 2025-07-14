@@ -776,6 +776,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/deepu144/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3931-process-string-with-special-operations-i](https://github.com/deepu144/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1063,6 +1064,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/deepu144/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3931-process-string-with-special-operations-i](https://github.com/deepu144/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
