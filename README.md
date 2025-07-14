@@ -347,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepu144/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3881-minimize-maximum-component-cost](https://github.com/deepu144/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Tree
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3881-minimize-maximum-component-cost](https://github.com/deepu144/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Design
 |  |
 | ------- |
@@ -869,6 +871,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/deepu144/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3881-minimize-maximum-component-cost](https://github.com/deepu144/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Linked List
 |  |
 | ------- |
@@ -1170,6 +1173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2793-count-the-number-of-complete-components](https://github.com/deepu144/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepu144/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3881-minimize-maximum-component-cost](https://github.com/deepu144/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Shortest Path
 |  |
 | ------- |
