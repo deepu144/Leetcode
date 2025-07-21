@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
+| [0525-contiguous-array](https://github.com/deepu144/Leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/deepu144/Leetcode/tree/master/0605-can-place-flowers) |
@@ -551,6 +552,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0209-minimum-size-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/deepu144/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/deepu144/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/deepu144/Leetcode/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -602,6 +604,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/deepu144/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/deepu144/Leetcode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/deepu144/Leetcode/tree/master/0797-rabbits-in-forest) |
