@@ -209,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/deepu144/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepu144/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/deepu144/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepu144/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -308,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepu144/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/deepu144/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/deepu144/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Sorting
@@ -669,6 +671,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepu144/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
