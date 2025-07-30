@@ -153,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2479-meeting-rooms-iii](https://github.com/deepu144/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepu144/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/deepu144/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepu144/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/deepu144/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/deepu144/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -854,6 +855,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/deepu144/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/deepu144/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/deepu144/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepu144/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/deepu144/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -1189,6 +1191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/deepu144/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/deepu144/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Geometry
 |  |
