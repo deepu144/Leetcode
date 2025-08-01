@@ -95,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/deepu144/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/deepu144/Leetcode/tree/master/1428-jump-game-iii) |
 | [1471-maximum-students-taking-exam](https://github.com/deepu144/Leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -426,6 +427,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1428-jump-game-iii](https://github.com/deepu144/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/deepu144/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -472,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/deepu144/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepu144/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/deepu144/Leetcode/tree/master/1558-course-schedule-iv) |
