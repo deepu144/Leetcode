@@ -291,6 +291,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0901-advantage-shuffle](https://github.com/deepu144/Leetcode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/deepu144/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deepu144/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1252-break-a-palindrome](https://github.com/deepu144/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/deepu144/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -778,6 +779,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/deepu144/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/deepu144/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1252-break-a-palindrome](https://github.com/deepu144/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/deepu144/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepu144/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepu144/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
