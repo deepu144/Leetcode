@@ -787,6 +787,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1818-maximum-score-from-removing-substrings](https://github.com/deepu144/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/deepu144/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/deepu144/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepu144/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepu144/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/deepu144/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1052,6 +1053,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepu144/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepu144/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/deepu144/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/deepu144/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepu144/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/deepu144/Leetcode/tree/master/2478-longest-nice-subarray) |
