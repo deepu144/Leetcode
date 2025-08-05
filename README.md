@@ -219,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepu144/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/deepu144/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepu144/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -546,6 +547,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3881-minimize-maximum-component-cost](https://github.com/deepu144/Leetcode/tree/master/3881-minimize-maximum-component-cost) |
 ## Design
 |  |
@@ -569,6 +571,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -605,6 +608,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/deepu144/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1131,6 +1135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/deepu144/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3931-process-string-with-special-operations-i](https://github.com/deepu144/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Two Pointers
