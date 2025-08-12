@@ -268,6 +268,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/deepu144/Leetcode/tree/master/2808-painting-the-walls) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/deepu144/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepu144/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/deepu144/Leetcode/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/deepu144/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
