@@ -865,6 +865,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0137-single-number-ii](https://github.com/deepu144/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deepu144/Leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/deepu144/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/deepu144/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -959,6 +960,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepu144/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/deepu144/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/deepu144/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1005,6 +1007,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/deepu144/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/deepu144/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
