@@ -150,6 +150,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/deepu144/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/deepu144/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/deepu144/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/deepu144/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/deepu144/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepu144/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1025,6 +1026,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2050-count-good-numbers](https://github.com/deepu144/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepu144/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/deepu144/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/deepu144/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepu144/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/deepu144/Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/deepu144/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
