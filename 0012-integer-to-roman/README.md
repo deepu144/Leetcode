@@ -50,7 +50,7 @@
 <p>Given an integer, convert it to a Roman numeral.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</ strong></p>
 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">num = 3749</span></p>
