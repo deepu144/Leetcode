@@ -5,7 +5,7 @@
 <p>You must solve this problem without using the library&#39;s sort function.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class ="example">Example 1:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [2,0,2,1,1,0]
