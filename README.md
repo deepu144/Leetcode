@@ -75,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0945-snakes-and-ladders](https://github.com/deepu144/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1006-vowel-spellchecker](https://github.com/deepu144/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepu144/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/deepu144/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -650,6 +651,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/deepu144/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/deepu144/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/deepu144/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -793,6 +795,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/deepu144/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/deepu144/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/deepu144/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/deepu144/Leetcode/tree/master/1160-letter-tile-possibilities) |
