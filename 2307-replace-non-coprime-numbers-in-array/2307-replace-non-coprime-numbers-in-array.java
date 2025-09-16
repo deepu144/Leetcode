@@ -13,7 +13,6 @@ class Solution {
                 }else break;
             }
             if(!temp.isEmpty()){
-                boolean flag = false;
                 while(!temp.isEmpty()){
                     long prev = temp.getLast();
                     long gcd = gcd(prev,mul);
@@ -22,9 +21,8 @@ class Solution {
                         temp.removeLast();
                     }else break;
                 }
-                temp.addLast(mul);
-            }else temp.addLast(mul);
-            
+            }
+            temp.addLast(mul);
             i++;
         }
         for(long val : temp) ans.add((int)val);
