@@ -7,19 +7,17 @@ class Solution {
             long mul = nums[i];
             while(i+1<n){
                 long gcd = gcd(mul,nums[i+1]);
-                if(gcd>1L){
-                    mul = (mul * nums[i+1])/gcd;
-                    i++;
-                }else break;
+                if(gcd == 1) break;
+                mul = (mul * nums[i+1])/gcd;
+                i++;
             }
             if(!temp.isEmpty()){
                 while(!temp.isEmpty()){
                     long prev = temp.getLast();
                     long gcd = gcd(prev,mul);
-                    if(gcd != 1) {
-                        mul = (mul * prev) / gcd;
-                        temp.removeLast();
-                    }else break;
+                    if(gcd == 1) break;
+                    mul = (mul * prev) / gcd;
+                    temp.removeLast();
                 }
             }
             temp.addLast(mul);
