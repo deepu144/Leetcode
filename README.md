@@ -226,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3748-sort-matrix-by-diagonals](https://github.com/deepu144/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/deepu144/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepu144/Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -577,6 +578,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2434-design-a-number-container-system](https://github.com/deepu144/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/deepu144/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/deepu144/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/deepu144/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -713,6 +715,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/deepu144/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/deepu144/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepu144/Leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -859,6 +862,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/deepu144/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/deepu144/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/deepu144/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/deepu144/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/deepu144/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1019,6 +1023,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/deepu144/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/deepu144/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/deepu144/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
