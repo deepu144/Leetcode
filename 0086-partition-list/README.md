@@ -10,7 +10,7 @@
 <strong>Output:</strong> [1,2,2,4,3,5]
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong  class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> head = [2,1], x = 2
