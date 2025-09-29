@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0318-maximum-product-of-word-lengths](https://github.com/deepu144/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0368-largest-divisible-subset](https://github.com/deepu144/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/deepu144/Leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/deepu144/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -245,6 +246,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/deepu144/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/deepu144/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/deepu144/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/deepu144/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/deepu144/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -1050,6 +1052,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/deepu144/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/deepu144/Leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/deepu144/Leetcode/tree/master/0556-next-greater-element-iii) |
