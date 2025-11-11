@@ -16,11 +16,8 @@ class Solution {
     }
 
     public int[] getFrequency(char[] ch){
-        int ones = 0, zeros = 0;
-        for(char c : ch){
-            if(c == '0') zeros++;
-            else ones++;
-        }
-        return new int[]{zeros,ones};
+        int zeros = 0;
+        for(char c : ch) if(c == '0') zeros++;
+        return new int[]{zeros,ch.length-zeros};
     }
 }
