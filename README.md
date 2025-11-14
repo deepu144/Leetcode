@@ -352,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/deepu144/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/deepu144/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepu144/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/deepu144/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepu144/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/deepu144/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -903,6 +904,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/deepu144/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepu144/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deepu144/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/deepu144/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1298,6 +1300,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepu144/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepu144/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/deepu144/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
