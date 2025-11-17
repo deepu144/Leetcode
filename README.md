@@ -112,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1510-find-lucky-integer-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/deepu144/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/deepu144/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepu144/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/deepu144/Leetcode/tree/master/1656-count-good-triplets) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
