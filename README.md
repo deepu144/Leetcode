@@ -131,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/deepu144/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/deepu144/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deepu144/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/deepu144/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/deepu144/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -1246,6 +1247,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepu144/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1929-concatenation-of-array](https://github.com/deepu144/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepu144/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/deepu144/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepu144/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
