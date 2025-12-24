@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/deepu144/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/deepu144/Leetcode/tree/master/1428-jump-game-iii) |
+| [1470-shuffle-the-array](https://github.com/deepu144/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1471-maximum-students-taking-exam](https://github.com/deepu144/Leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
