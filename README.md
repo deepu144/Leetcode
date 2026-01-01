@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0045-jump-game-ii](https://github.com/deepu144/Leetcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/deepu144/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepu144/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/deepu144/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/deepu144/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepu144/Leetcode/tree/master/0075-sort-colors) |
@@ -1114,6 +1115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/deepu144/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/deepu144/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/deepu144/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/deepu144/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
