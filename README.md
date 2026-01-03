@@ -113,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/deepu144/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/deepu144/Leetcode/tree/master/1428-jump-game-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/deepu144/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/deepu144/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1471-maximum-students-taking-exam](https://github.com/deepu144/Leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -829,6 +830,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0071-simplify-path](https://github.com/deepu144/Leetcode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/deepu144/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/deepu144/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/deepu144/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepu144/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1268,6 +1270,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/deepu144/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepu144/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/deepu144/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepu144/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
