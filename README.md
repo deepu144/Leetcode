@@ -35,6 +35,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0137-single-number-ii](https://github.com/deepu144/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/deepu144/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -828,6 +829,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/deepu144/Leetcode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/deepu144/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/deepu144/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1122,6 +1124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/deepu144/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/deepu144/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/deepu144/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
