@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0594-longest-harmonious-subsequence](https://github.com/deepu144/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/deepu144/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/deepu144/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0636-exclusive-time-of-functions](https://github.com/deepu144/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deepu144/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/deepu144/Leetcode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/deepu144/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -832,6 +833,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/deepu144/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/deepu144/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/deepu144/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/deepu144/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepu144/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
