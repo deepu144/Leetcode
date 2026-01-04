@@ -113,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepu144/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1390-four-divisors](https://github.com/deepu144/Leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/deepu144/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/deepu144/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1152,6 +1153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0840-magic-squares-in-grid](https://github.com/deepu144/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/deepu144/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/deepu144/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/deepu144/Leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepu144/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/deepu144/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
