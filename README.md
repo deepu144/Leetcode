@@ -146,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/deepu144/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/deepu144/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deepu144/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/deepu144/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/deepu144/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -356,6 +357,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/deepu144/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/deepu144/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/deepu144/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1975-maximum-matrix-sum](https://github.com/deepu144/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/deepu144/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/deepu144/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepu144/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1112,6 +1114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1471-maximum-students-taking-exam](https://github.com/deepu144/Leetcode/tree/master/1471-maximum-students-taking-exam) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/deepu144/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/deepu144/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepu144/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepu144/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
