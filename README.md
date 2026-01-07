@@ -465,6 +465,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepu144/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepu144/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2104-operations-on-tree](https://github.com/deepu144/Leetcode/tree/master/2104-operations-on-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/deepu144/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -500,6 +501,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepu144/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepu144/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepu144/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -595,6 +597,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepu144/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepu144/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/deepu144/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepu144/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepu144/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
