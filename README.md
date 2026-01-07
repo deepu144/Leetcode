@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/deepu144/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0368-largest-divisible-subset](https://github.com/deepu144/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/deepu144/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepu144/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/deepu144/Leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
@@ -812,6 +813,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/deepu144/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/deepu144/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/deepu144/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [1046-last-stone-weight](https://github.com/deepu144/Leetcode/tree/master/1046-last-stone-weight) |
