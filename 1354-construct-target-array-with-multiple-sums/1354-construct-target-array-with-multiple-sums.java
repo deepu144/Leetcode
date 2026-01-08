@@ -12,9 +12,9 @@ class Solution {
             int curr = pq.poll();
             if(curr < 2) continue;
             long compliment = tot - curr;
-            if(compliment == 0 || (compliment != 1 && compliment >= curr)) return false;
+            if(compliment == 0 || compliment >= curr) return false;
             long actual = curr % compliment;
-            if(n !=2 && actual == 0) return false;
+            if(n != 2 && actual == 0) return false;
             tot = actual+compliment;
             pq.offer((int)actual);
         }
