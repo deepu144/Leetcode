@@ -921,6 +921,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0831-masking-personal-information](https://github.com/deepu144/Leetcode/tree/master/0831-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/deepu144/Leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/deepu144/Leetcode/tree/master/1006-vowel-spellchecker) |
