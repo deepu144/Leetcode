@@ -914,6 +914,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/deepu144/Leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/deepu144/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/deepu144/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/deepu144/Leetcode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/deepu144/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/deepu144/Leetcode/tree/master/0556-next-greater-element-iii) |
