@@ -913,6 +913,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0318-maximum-product-of-word-lengths](https://github.com/deepu144/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/deepu144/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/deepu144/Leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/deepu144/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/deepu144/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/deepu144/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/deepu144/Leetcode/tree/master/0520-detect-capital) |
@@ -1286,6 +1287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/deepu144/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
