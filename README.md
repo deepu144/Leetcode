@@ -921,6 +921,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0556-next-greater-element-iii](https://github.com/deepu144/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/deepu144/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/deepu144/Leetcode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/deepu144/Leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0831-masking-personal-information](https://github.com/deepu144/Leetcode/tree/master/0831-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/deepu144/Leetcode/tree/master/0868-push-dominoes) |
@@ -1288,6 +1289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/deepu144/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/deepu144/Leetcode/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/deepu144/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/deepu144/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
