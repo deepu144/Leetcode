@@ -111,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/deepu144/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/deepu144/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepu144/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/deepu144/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/deepu144/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/deepu144/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepu144/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -818,6 +819,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0502-ipo](https://github.com/deepu144/Leetcode/tree/master/0502-ipo) |
 | [1046-last-stone-weight](https://github.com/deepu144/Leetcode/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/deepu144/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/deepu144/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1814-jump-game-vi](https://github.com/deepu144/Leetcode/tree/master/1814-jump-game-vi) |
