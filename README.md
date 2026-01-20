@@ -242,6 +242,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepu144/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/deepu144/Leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/deepu144/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/deepu144/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/deepu144/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1034,6 +1035,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/deepu144/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepu144/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/deepu144/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/deepu144/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/deepu144/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
