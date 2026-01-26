@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deepu144/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/deepu144/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/deepu144/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1200-minimum-absolute-difference](https://github.com/deepu144/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/deepu144/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -415,6 +416,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0941-sort-array-by-parity](https://github.com/deepu144/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/deepu144/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/deepu144/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/deepu144/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1253-sort-the-matrix-diagonally](https://github.com/deepu144/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deepu144/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
