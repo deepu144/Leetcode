@@ -15,44 +15,34 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head==null) return head;
-        HashMap<Node,Integer> map=new HashMap<>();
-        HashMap<Integer,Integer> random=new HashMap<>();
-        HashMap<Integer,Node> map1=new HashMap<>();
-        Node temp=head;
-        int id=0;
-        while(temp!=null){
-            map.put(temp,++id);
-            temp=temp.next;
+        HashMap<Node,Integer> index = new HashMap<>();
+        HashMap<Integer,Node> newMap = new HashMap<>();
+        Node temp = head;
+        Node newHead = new Node(-1);
+        int idx = 0;
+        while(temp != null){
+            index.put(temp,idx++);
+            temp = temp.next;
         }
-        temp=head;
-        id=1;
-        while(temp!=null){
-            Node p=temp.random;
-            if(p==null) random.put(id,-1);
-            else random.put(id,map.get(p));
-            id++;
-            temp=temp.next;
+        temp = head;
+        Node temp2 = newHead;
+        idx = 0;
+        while(temp != null){
+            temp2.next = new Node(temp.val);
+            temp2 = temp2.next;
+            newMap.put(idx++,temp2);
+            temp = temp.next;
         }
-        id=1;
-        Node head1=new Node(head.val);
-        map1.put(id++,head1);
-        Node temp1=head1;
-        temp=head.next;
-        while(temp!=null){
-            temp1.next=new Node(temp.val);
-            temp1=temp1.next;
-            temp=temp.next;
-            map1.put(id++,temp1);
+        newHead = newHead.next;
+        temp = head;
+        temp2 = newHead;
+        idx = 0;
+        while(temp != null){
+            int randomIdx = index.getOrDefault(temp.random, -1);
+            if(randomIdx != -1) temp2.random = newMap.get(randomIdx);
+            temp = temp.next;
+            temp2 = temp2.next;
         }
-        temp=head1;
-        id=1;
-        while(temp!=null){
-            if(random.get(id)==-1) temp.random=null;
-            else temp.random=map1.get(random.get(id));
-            temp=temp.next;
-            id++;
-        }
-        return head1;
+        return newHead;
     }
 }
