@@ -1118,6 +1118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deepu144/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepu144/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/deepu144/Leetcode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/deepu144/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/deepu144/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepu144/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepu144/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1128,6 +1129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/deepu144/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepu144/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/deepu144/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/deepu144/Leetcode/tree/master/0486-predict-the-winner) |
