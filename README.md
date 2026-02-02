@@ -228,6 +228,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepu144/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/deepu144/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/deepu144/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepu144/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/deepu144/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/deepu144/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -798,6 +799,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepu144/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepu144/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepu144/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/deepu144/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/deepu144/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deepu144/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -853,6 +855,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/deepu144/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/deepu144/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/deepu144/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/deepu144/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1287,6 +1290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/deepu144/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepu144/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepu144/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/deepu144/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepu144/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepu144/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
