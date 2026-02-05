@@ -255,6 +255,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/deepu144/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/deepu144/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/deepu144/Leetcode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/deepu144/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/deepu144/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1367,6 +1368,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2551-apply-operations-to-an-array](https://github.com/deepu144/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/deepu144/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/deepu144/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/deepu144/Leetcode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepu144/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/deepu144/Leetcode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/deepu144/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
