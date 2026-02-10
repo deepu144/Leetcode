@@ -279,6 +279,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepu144/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepu144/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/deepu144/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/deepu144/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepu144/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/deepu144/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/deepu144/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -683,6 +684,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/deepu144/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3719-longest-balanced-subarray-i](https://github.com/deepu144/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/deepu144/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -717,6 +719,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepu144/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/deepu144/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/deepu144/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/deepu144/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -831,6 +834,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepu144/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepu144/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/deepu144/Leetcode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/deepu144/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/deepu144/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/deepu144/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/deepu144/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1450,6 +1454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0190-reverse-bits](https://github.com/deepu144/Leetcode/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/deepu144/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepu144/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/deepu144/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting Sort
 |  |
 | ------- |
