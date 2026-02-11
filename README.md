@@ -152,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/deepu144/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1876-map-of-highest-peak](https://github.com/deepu144/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/deepu144/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepu144/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepu144/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/deepu144/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -436,6 +437,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/deepu144/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/deepu144/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/deepu144/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepu144/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2055-describe-the-painting](https://github.com/deepu144/Leetcode/tree/master/2055-describe-the-painting) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepu144/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/deepu144/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
