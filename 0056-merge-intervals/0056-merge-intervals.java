@@ -1,14 +1,11 @@
 class Solution {
-    public int[][] merge(int[][] a) {
-        Arrays.sort(a,(c,b)->c[0]-b[0]);
-        int j=0;
-        for(int[] arr : a){
-            if(a[j][1]>=arr[0]) a[j][1]=Math.max(a[j][1],arr[1]);
-            else{
-                j++;
-                a[j]=arr;
-            }
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
+        int j = 0;
+        for(int[] interval : intervals) {
+            if(intervals[j][1] >= interval[0]) intervals[j][1] = Math.max(intervals[j][1], interval[1]);
+            else intervals[++j] = interval;
         }
-        return Arrays.copyOfRange(a,0,j+1);
+        return Arrays.copyOfRange(intervals, 0, ++j);
     }
 }
