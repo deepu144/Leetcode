@@ -25,7 +25,7 @@ class Solution {
             }
         }
         StringBuilder sb=new StringBuilder();
-        for(List<Character> li : ch) for(char c :li) sb.append(c);
+        for(List<Character> li : ch) for(char c : li) sb.append(c);
         return sb.toString();
     }
 }
