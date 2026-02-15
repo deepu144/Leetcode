@@ -937,6 +937,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepu144/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/deepu144/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/deepu144/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/deepu144/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deepu144/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -1051,6 +1052,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deepu144/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/deepu144/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deepu144/Leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/deepu144/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1209,6 +1211,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/deepu144/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/deepu144/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/deepu144/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/deepu144/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1366,6 +1369,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepu144/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/deepu144/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/deepu144/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/deepu144/Leetcode/tree/master/0289-game-of-life) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepu144/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
