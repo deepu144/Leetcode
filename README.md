@@ -1061,6 +1061,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0401-binary-watch](https://github.com/deepu144/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/deepu144/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/deepu144/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0693-binary-number-with-alternating-bits](https://github.com/deepu144/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/deepu144/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/deepu144/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/deepu144/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
