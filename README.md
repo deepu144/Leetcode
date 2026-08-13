@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepu144/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepu144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/deepu144/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/deepu144/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -1222,6 +1223,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepu144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/deepu144/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/deepu144/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/deepu144/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/deepu144/Leetcode/tree/master/0279-perfect-squares) |
@@ -1562,6 +1564,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/deepu144/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/deepu144/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/deepu144/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -1592,6 +1595,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/deepu144/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/deepu144/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/deepu144/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1606,4 +1610,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepu144/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
