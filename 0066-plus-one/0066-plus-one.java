@@ -1,19 +1,27 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        List<Integer> ans = new ArrayList<>();
-        plus(digits,digits.length-1,0,1,ans);
-        return ans.stream().mapToInt(i->i).toArray();
-    }
-    public void plus(int[] arr,int n,int carry,int sum,List<Integer> ans){
-        if(n==-1){
-            if(carry!=0) ans.addFirst(carry);
-            return;
+        int cnt = 0, n = digits.length;
+        for(int digit : digits) 
+            if(digit == 9) cnt++;
+        if(cnt == n) {
+            int[] res = new int[n+1];
+            res[0] = 1;
+            return res;
         }
-        int i=arr[n]+sum+carry;
-        if(i<10) ans.addFirst(i);
-        else ans.addFirst(i%10);
-        carry=0;
-        if(i>=10) carry=i/10;
-        plus(arr,n-1,carry,0,ans);
+        return plusOne(digits, n);
     }
+
+    public int[] plusOne(int[] digits, int n) {
+        int carry = 0;
+        digits[n-1]++;
+        for(int i = n-1; i >= 0 ; i--) {
+            digits[i] += carry;
+            if(digits[i] >= 10) {
+                carry = digits[i]/10;
+                digits[i] = digits[i] % 10;
+            } else carry = 0;
+        }
+        return digits;
+    }
+
 }
