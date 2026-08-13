@@ -1,38 +1,47 @@
 class Solution {
     public String multiply(String num1, String num2) {
-        int n = num1.length(), m = num2.length(), len = 0;
-        if(n < m) return multiply(num2,num1);
-        if(isNumberZero(num1,n) || isNumberZero(num2,m)) return "0";
-        List<Integer>[] mat = new List[m];
-        for(int i=0;i<m;i++) mat[i] = new ArrayList<>();
-        for(int i=m-1;i>=0;i--){
-            int curr = num2.charAt(i) - '0', remain = 0, j = m-i-1;
-            while(j-->0) mat[i].add(0);
-            for(j=n-1;j>=0;j--){
-                int mul = ((num1.charAt(j) - '0') * curr) + remain;
-                mat[i].add(mul%10);
-                remain = mul / 10;
+        int m = num1.length(), n = num2.length();
+        if(isZero(num1,m) || isZero(num2,n)) return "0";
+        int row = n, col = 0, carry = 0;
+        List<Integer>[] mat = new List[row];
+        for(int i=0;i<row;i++) mat[i] = new ArrayList<>();
+        for(int i = n-1; i>=0; i--) {
+            for(int j = 0; j < n-i-1; j++) mat[n-i-1].add(0);
+            carry = 0;
+            int b = num2.charAt(i) - '0';
+            for(int j = m-1; j>=0; j--) {
+                int a = num1.charAt(j) - '0';
+                int prod = a*b + carry;
+                if(prod >= 10) {
+                    carry = prod/10;
+                    prod %= 10;
+                } else carry = 0;
+                mat[n-i-1].add(prod);
             }
-            while(remain != 0){
-                mat[i].add(remain%10);
-                remain /= 10;
+            while(carry > 0) {
+                mat[n-i-1].add(carry%10);
+                carry/=10;
             }
-            len = Math.max(len, mat[i].size());
         }
+        for(int i=0;i<row;i++) col = Math.max(col,mat[i].size());
         StringBuilder sb = new StringBuilder();
-        int remain = 0;
-        for(int i=0;i<len;i++){
-            int sum = remain;
-            for(int j=0;j<m;j++) sum += (mat[j].size() > i) ? mat[j].get(i) : 0;
-            sb.append(sum%10);
-            remain = sum/10;
+        for(int j = 0; j < col ;j++) {
+            int sum = carry;
+            for(int i = 0; i < row; i++) {
+                if(mat[i].size() > j) 
+                    sum += mat[i].get(j);
+            }
+            if(sum >= 10) {
+                carry = sum/10;
+                sum %= 10;
+            } else carry = 0;
+            sb.append(sum);
         }
-        if(remain != 0) sb.append(remain);
+        if(carry != 0 ) sb.append(carry);
         return sb.reverse().toString();
     }
-
-    public boolean isNumberZero(String str,int n){
-        for(int i=0;i<n;i++) if((str.charAt(i) - '0') != 0) return false;
+    public boolean isZero(String s, int n) {
+        for(int i = 0; i<n ; i++) if(s.charAt(i) != '0') return false;
         return true;
     }
 }
