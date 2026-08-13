@@ -1,15 +1,18 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int pro=1,zero=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0) pro*=nums[i];
-            else zero++; 
-        } 
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0 && zero>=1) nums[i]=0;
-            else if(nums[i]!=0 && zero==0) nums[i]=(pro/nums[i]);
-            else if(nums[i]==0 && zero==1) nums[i]=pro;
-            else if(nums[i]==0 && zero>1) nums[i]=0;
+        int prod = 1, zeroCount = 0, n = nums.length;
+        for(int num : nums) {
+            if(num == 0) zeroCount++;
+            else prod *= num;
+            if(zeroCount > 1) 
+                return new int[n];
+        }
+        for(int i = 0; i<n; i++) {
+            if(nums[i] == 0) {
+                nums[i] = prod;
+                continue;
+            }
+            nums[i] = zeroCount == 1 ? 0 : prod / nums[i];
         }
         return nums;
     }
