@@ -1631,4 +1631,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/deepu144/Leetcode/tree/master/0204-count-primes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deepu144/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
