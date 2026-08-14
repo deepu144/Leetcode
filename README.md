@@ -1169,6 +1169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/deepu144/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/deepu144/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepu144/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/deepu144/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/deepu144/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/deepu144/Leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/deepu144/Leetcode/tree/master/0342-power-of-four) |
@@ -1220,6 +1221,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0012-integer-to-roman](https://github.com/deepu144/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/deepu144/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/deepu144/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/deepu144/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/deepu144/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepu144/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/deepu144/Leetcode/tree/master/0096-unique-binary-search-trees) |
