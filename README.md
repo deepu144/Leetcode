@@ -110,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1227-number-of-equivalent-domino-pairs](https://github.com/deepu144/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/deepu144/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/deepu144/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1314-matrix-block-sum](https://github.com/deepu144/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1325-path-with-maximum-probability](https://github.com/deepu144/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/deepu144/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -702,6 +703,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0525-contiguous-array](https://github.com/deepu144/Leetcode/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/deepu144/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepu144/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1314-matrix-block-sum](https://github.com/deepu144/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/deepu144/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/deepu144/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/deepu144/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1197,6 +1199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0945-snakes-and-ladders](https://github.com/deepu144/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepu144/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/deepu144/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1314-matrix-block-sum](https://github.com/deepu144/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-path-with-maximum-gold](https://github.com/deepu144/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1380-number-of-closed-islands](https://github.com/deepu144/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepu144/Leetcode/tree/master/1396-count-servers-that-communicate) |
